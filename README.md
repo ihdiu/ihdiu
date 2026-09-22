@@ -1,108 +1,105 @@
 # Hi, I'm Raisul Islam Nahid 👋
 
-### Full-Stack Web Developer · Laravel · React.js · Inertia.js
+### Full-Stack Web Developer | Laravel • React.js • Inertia.js
 
-I build clean, scalable, and user-focused web applications using **Laravel, React.js, Inertia.js, Tailwind CSS, and MySQL**.
+I build clean, scalable, and user-focused web applications with **Laravel, React.js, Inertia.js, Tailwind CSS, and MySQL**.  
+My work includes e-commerce platforms, rental systems, real-time applications, REST APIs, authentication, role-based access control, and database-driven web solutions.
 
-My work includes e-commerce platforms, property rental systems, real-time applications, REST APIs, authentication, role-based access control, and database-driven web solutions.
+<p align="left">
+  <a href="https://github.com/ihdiu">
+    <img src="https://komarev.com/ghpvc/?username=ihdiu&label=Profile%20Views&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="mailto:nahid22205101337@diu.edu.bd">
+    <img src="https://img.shields.io/badge/Email-nahid22205101337%40diu.edu.bd-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://raisul.tech">
+    <img src="https://img.shields.io/badge/Portfolio-raisul.tech-black?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BSc in **Computer Science & Engineering** at Daffodil International University
-- 💻 Focused on **Full-Stack Web Development**
-- ⚙️ Strong interest in the **Laravel ecosystem**
-- ⚛️ Building modern interfaces with **React.js, Inertia.js, Tailwind CSS, and Bootstrap**
-- 🔐 Experienced with **Authentication, Role-Based Access Control, RESTful APIs, OOP, and MVC**
-- 🗄️ Comfortable with **MySQL, PostgreSQL, and MongoDB**
+- 🎓 **BSc in Computer Science & Engineering**, Daffodil International University
+- 💻 Focused on **full-stack web development**, especially the Laravel ecosystem
+- ⚛️ Building modern frontends with **React.js, Inertia.js, Tailwind CSS, and Bootstrap**
+- 🔐 Experienced with **authentication, role-based access control, RESTful APIs, and MVC architecture**
+- 🗄️ Comfortable working with **MySQL, PostgreSQL, and MongoDB**
 - 🤖 Also interested in **Machine Learning, Deep Learning, and Image Processing**
-- 📍 Dhaka, Bangladesh
-- 🌐 Portfolio: [raisul.tech](https://raisul.tech)
+- 🌱 Continuously improving my software architecture, backend engineering, and production deployment skills
+- 📍 Based in **Dhaka, Bangladesh**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Languages
-
-`PHP` · `JavaScript` · `TypeScript` · `Python` · `Java` · `C` · `C++`
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,java,cpp" alt="Programming languages" />
+</p>
 
 ### Frontend
-
-`HTML5` · `CSS3` · `React.js` · `Tailwind CSS` · `Bootstrap` · `Inertia.js`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" alt="Frontend technologies" />
+</p>
 
 ### Backend
-
-`Laravel` · `PHP` · `RESTful APIs` · `Django` · `Flask`
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,django,flask,nodejs" alt="Backend technologies" />
+</p>
 
 ### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
+</p>
 
-`MySQL` · `PostgreSQL` · `MongoDB`
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" alt="Developer tools" />
+</p>
 
-### Core Concepts
-
-`OOP` · `MVC Architecture` · `Authentication` · `RBAC` · `Database Design` · `Responsive UI` · `SDLC`
-
-### Tools
-
-`Git` · `GitHub` · `VS Code` · `Postman` · `Linux`
+**Core concepts:** OOP • MVC • RESTful APIs • Authentication • RBAC • Database Design • Responsive UI • SDLC
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 PowerITSource
-**E-commerce Platform**
+### 🛒 [PowerITSource](https://poweritsource.com)
+**E-commerce Platform — Laravel, Inertia.js, React.js, Tailwind CSS, MySQL**
 
-**Stack:** Laravel · Inertia.js · React.js · Tailwind CSS · MySQL
-
-- Built an e-commerce platform for computer components
+- Developed an e-commerce platform for computer components
 - Implemented cart, checkout, order management, and inventory workflows
-- Used React.js with Inertia.js for a fast SPA-like frontend
-- Designed the MySQL database structure for products, orders, and inventory
-
-🌐 **Live:** [poweritsource.com](https://poweritsource.com)
+- Built a fast SPA-like frontend using React.js with Inertia.js
+- Designed the MySQL schema for products, orders, and inventory
 
 ---
 
-### 🏠 House Rental Website
-**Property Listing & Rental Platform**
-
-**Stack:** Laravel · Inertia.js · React.js · Tailwind CSS · MySQL
+### 🏠 [House Rental Website](https://h2rental.com)
+**Property Listing Platform — Laravel, Inertia.js, React.js, Tailwind CSS, MySQL**
 
 - Built a platform where landlords can publish properties and tenants can search and inquire
-- Implemented role-based access for landlords, tenants, and administrators
-- Added search and filtering by location, price, and amenities
-- Designed a responsive, database-driven rental workflow
-
-🌐 **Live:** [h2rental.com](https://h2rental.com)
+- Implemented role-based access for **landlords, tenants, and administrators**
+- Added filtering by **location, price, and amenities**
+- Created a responsive, database-driven rental workflow
 
 ---
 
 ### ⚔️ PromptBattle
-**Prompt-Based Competition Platform**
-
-**Stack:** React.js · Tailwind CSS · Laravel · MySQL
+**Prompt Competition Platform — React.js, Tailwind CSS, Laravel, MySQL**
 
 - Built a real-time platform for prompt-based competitions
 - Developed the backend and REST APIs using Laravel
-- Created the frontend using React.js and Tailwind CSS
-
-💻 **Repository:** [github.com/ihdiu/PromptBattle](https://github.com/ihdiu/PromptBattle)
+- Created a modern frontend with React.js and Tailwind CSS
 
 ---
 
 ### 🎓 Dear63
-**Academic Registration Portal**
-
-**Stack:** HTML · Bootstrap · JavaScript · PHP · MySQL
+**Academic Registration Portal — HTML, Bootstrap, JavaScript, PHP, MySQL**
 
 - Built a portal for CSE students and teachers
 - Implemented authentication and role-based access
-- Developed academic registration workflows
-
-💻 **Repository:** [github.com/ihdiu/dear63d](https://github.com/ihdiu/dear63d)
+- Designed the system around academic registration workflows
 
 ---
 
