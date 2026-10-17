@@ -133,7 +133,7 @@ Instead of external stats cards, this profile uses direct GitHub links so the RE
 ### BSc in Computer Science and Engineering
 **Daffodil International University**  
 July 2022 – September 2026  
-**CGPA:** 3.54
+**CGPA:** 3.57
 
 ### Higher Secondary Certificate (HSC)
 **Notre Dame College, Mymensingh**  
